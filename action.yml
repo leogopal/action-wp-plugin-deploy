@@ -1,6 +1,6 @@
-name: 'WordPress Plugin Deploy'
+name: 'WordPress Plugin Deploy Github to SN'
 description: 'Deploy to the WordPress Plugin Repository'
-author: '10up'
+author: 'leogopal'
 inputs:
   generate-zip:
     description: 'Generate package zip file?'

@@ -2,8 +2,6 @@
 
 All notable changes to this project will be documented in this file, per [the Keep a Changelog standard](http://keepachangelog.com/).
 
-## [Unreleased] - TBD
-
 ## [1.5.0] - 2020-05-27
 ### Added
 - Add optional ZIP file generation from SVN trunk to match content on WordPress.org. Props [@shivapoudel](https://github.com/shivapoudel) via [#37](https://github.com/10up/action-wordpress-plugin-deploy/pull/37).
